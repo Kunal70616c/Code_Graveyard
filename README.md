@@ -21,7 +21,7 @@ Sometimes it’s genius, sometimes it’s garbage, sometimes I don’t even reme
 ---
 
 ## ⚡ How to use it?
-You don’t !!
+You don’t 🤡 !!
 But if you insist:  
 ```bash
 git clone https://github.com/Kunal70616c/Code_Graveyard.git
