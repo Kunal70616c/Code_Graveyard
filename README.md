@@ -22,7 +22,7 @@ Sometimes it’s genius, sometimes it’s garbage, sometimes I don’t even reme
 
 ## ⚡ How to use it?
 You don’t  !! 
-#######
+######
 
 But if you insist:  
 ```bash
