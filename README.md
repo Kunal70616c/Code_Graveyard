@@ -19,7 +19,7 @@ Sometimes it’s genius, sometimes it’s garbage, sometimes I don’t even reme
 - Because **“push first, think later”** is a lifestyle  
 
 ---
-###3
+###4
 
 ## ⚡ How to use it?
 You don’t  !! 
