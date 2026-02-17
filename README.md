@@ -33,7 +33,7 @@ Then pick a folder, run some code, and question your life choices.
 
 ⸻
 
-📝 Final Thoughts
+📝 Final Thoughts 
 
 This is not LeetCode.
 This is not HackerRank.
