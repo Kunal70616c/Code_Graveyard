@@ -1,0 +1,6 @@
+
+The candidate was able to articulate his technical knowledge very well in a clear and structured manner. He remained calm and composed throughout the discussion and presented his thoughts confidently.
+He explained his project in detail and responded effectively to cross‑questions, demonstrating a good understanding of his implementation and the reasoning behind it. He was also able to implement the required tasks during the interview.
+The candidate shows strong conceptual understanding of Java, Spring, Spring Boot, and MySQL. He also demonstrated good clarity on the "why" and "what" behind key OOP concepts, which reflects a strong theoretical foundation.
+He appears to have the potential to be a good team player. With continuous upskilling and more hands‑on practice, he can grow into a very capable programmer.
+Overall, it was a strong performance.
