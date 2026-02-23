@@ -1,0 +1,12 @@
+1. In pub sub, create a topic, add a default subscription with default options.
+2. A default subscription will be created
+3. Write the code for weather data API. Run it.
+4. In the subscription in pub sub, click on the subscription and then then pull under messages. You will see the output.
+5.Go to bigquery, then dataset. Create dataset with dataset id and region to US.
+6.Then, create table from empty table, give the dataset and table name. Add field data with type JSON and nullable mode, keep other default options. Then create.
+7.Go to pub sub, create a new subscription, set delivery type to write to big query.
+8.You will get a error, copy the email.
+9. Go to bigquery table, share -> manage permission. Add principal. Paste the email there and assign role to bigquery data editor.
+10. Run the Collab code again.
+11. Go to bigquery, go to query Section, just add select *
+12.Add another query (JSON to tabular)
